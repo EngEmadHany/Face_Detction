@@ -1,2 +1,4 @@
 # Face_Detction
- wearing Glass and Mask in Augmented reality 
+ use mobile camera to see yourself wearing Glasses and Mask 
+ 
+tested on samsung s8+ 
