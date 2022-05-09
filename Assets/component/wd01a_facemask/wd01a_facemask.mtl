@@ -1,0 +1,25 @@
+# Blender MTL File: 'wd01a.blend'
+# Material Count: 2
+
+newmtl Material_#160.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.300000 /home/xxx/work/_wada/export/covid_01.fbm/mm_diff_1.jpg
+map_Kd /home/xxx/work/_wada/whadatime_logo.jpg
+
+newmtl Material_#161.001
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd -o -3.500000 -3.500000 0.000000 -s 0.125000 0.125000 1.000000 /home/xxx/work/_wada/export/covid_01.fbm/mmn_bump.jpg
